@@ -1,6 +1,6 @@
 cask "irekobox" do
-  version "0.1.6"
-  sha256 "91542b38161ddd81916aef844d925f7815bb93d87516b3fa659c383480e55d34"
+  version "0.1.7"
+  sha256 "689ca8be2de4733b63af509634bfbd3b87bbde0437ca810e9b7129ee8f7fdb33"
 
   url "https://github.com/sirruf/irekobox/releases/download/v#{version}/Irekobox-#{version}.dmg"
   name "Irekobox"
